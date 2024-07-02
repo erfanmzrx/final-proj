@@ -1,0 +1,9 @@
+# ninja log v6
+3	339	7416482472245191	final-proj_autogen/timestamp	49f1655fb86f28b3
+3	339	7416482472245191	final-proj_autogen/mocs_compilation.cpp	49f1655fb86f28b3
+3	339	7416482472245191	D:/ap/exe 0/final-proj/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/final-proj_autogen/timestamp	49f1655fb86f28b3
+3	339	7416482472245191	D:/ap/exe 0/final-proj/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/final-proj_autogen/mocs_compilation.cpp	49f1655fb86f28b3
+346	741	7416482472700615	CMakeFiles/final-proj.dir/main.cpp.obj	aef66f24bedf99e0
+344	1778	7416482472700615	CMakeFiles/final-proj.dir/final-proj_autogen/mocs_compilation.cpp.obj	33a0037c6765de49
+347	1847	7416482472700615	CMakeFiles/final-proj.dir/mainwindow.cpp.obj	accd4074d05ad8f3
+1847	1979	7416482487775327	final-proj.exe	4b712e4b111fe948
